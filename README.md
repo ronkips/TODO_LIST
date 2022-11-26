@@ -3,14 +3,14 @@
 ## Server folder
 
 - first you npm install
-- then next you run the following command on the termonal
+- You the run the following command on the root folder in the termonal
 
 ### `nodemon index.js`
 
 ## client/todo foldert
 
 - first you npm install
-- nezt you run the folllowing command on the terminal
+-  you then  run the folllowing command on the root folder in the terminal
 
 ### `npm start`
 
